@@ -22,7 +22,7 @@ Tippi is a seasoned developer in the blockchain (hackathon) space, a promising (
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/key-prince.git
+    git clone https://github.com/tippi-fifestarr/key-prince.git
     cd key-prince
     ```
 
